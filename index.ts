@@ -1,4 +1,4 @@
-declare module "npmtest"{
+namespace test{
     export class Nesto{
     }   
 
