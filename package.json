@@ -9,7 +9,5 @@
   "author": "Me",
   "license": "MIT",
   "dependencies": {
-    "@types/jquery.datatables": "^1.10.36",
-    "@types/node": "^8.0.24"
   }
 }
